@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pce:home|Door43 (pce)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pce|d43-pce repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pce/archive/master.zip|d43-pce.zip]]
+
+**Recent Changes**
+{{changes>ns = pce}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pce|Ethnologue data]]
+
